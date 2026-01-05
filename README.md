@@ -1,4 +1,5 @@
 Bengaluru House Price Prediction Machine Learning Regression Model
+
 📖 Overview
 
 This project aims to predict house prices in Bengaluru using machine learning techniques. The dataset comprises various features like area type, availability, location, size, and total square footage. By analyzing these attributes, a model is developed to learn pricing patterns and make predictions.
