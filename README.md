@@ -39,4 +39,4 @@ Bengaluru House Data (from a local CSV file, likely /content/drive/MyDrive/Benga
 
 👨‍💻 Author
 
-[Your Name/Alias Here] | Aspiring ML Engineer | Data Science Enthusiast
+Ashutosh Tare | Aspiring ML Engineer | Data Science Enthusiast
